@@ -1,0 +1,1 @@
+{"options":{"validator":{"$jsonSchema":{"bsonType":"object","required":["nombre_rol"],"properties":{"nombre_rol":{"bsonType":"string"},"descripcion":{"bsonType":"string"}}}}},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"a1b5554baec54ea28d52fbf7d383f339","collectionName":"roles","type":"collection"}
